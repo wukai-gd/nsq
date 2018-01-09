@@ -49,3 +49,6 @@ profile
 
 # vim stuff
 *.sw[op]
+
+# jetbrains
+.idea
