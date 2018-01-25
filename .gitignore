@@ -52,3 +52,4 @@ profile
 
 # jetbrains
 .idea
+.DS_Store
